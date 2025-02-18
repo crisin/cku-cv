@@ -1,5 +1,6 @@
 {
   "name": "cku-react-vite",
+  "homepage": "https://crisin.github.io/cku-cv/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
